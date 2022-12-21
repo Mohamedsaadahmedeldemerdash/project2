@@ -1,0 +1,30 @@
+F:\projects\perfict num\perfict num\bin\Debug\net6.0\perfict num.exe
+F:\projects\perfict num\perfict num\bin\Debug\net6.0\perfict num.deps.json
+F:\projects\perfict num\perfict num\bin\Debug\net6.0\perfict num.runtimeconfig.json
+F:\projects\perfict num\perfict num\bin\Debug\net6.0\perfict num.dll
+F:\projects\perfict num\perfict num\bin\Debug\net6.0\perfict num.pdb
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.csproj.AssemblyReference.cache
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.AssemblyInfoInputs.cache
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.AssemblyInfo.cs
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.csproj.CoreCompileInputs.cache
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.dll
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\refint\perfict num.dll
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.pdb
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\perfict num.genruntimeconfig.cache
+F:\projects\perfict num\perfict num\obj\Debug\net6.0\ref\perfict num.dll
+F:\projects\perfict num project\perfict num\bin\Debug\net6.0\perfict num.exe
+F:\projects\perfict num project\perfict num\bin\Debug\net6.0\perfict num.deps.json
+F:\projects\perfict num project\perfict num\bin\Debug\net6.0\perfict num.runtimeconfig.json
+F:\projects\perfict num project\perfict num\bin\Debug\net6.0\perfict num.dll
+F:\projects\perfict num project\perfict num\bin\Debug\net6.0\perfict num.pdb
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.csproj.AssemblyReference.cache
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.AssemblyInfoInputs.cache
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.AssemblyInfo.cs
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.csproj.CoreCompileInputs.cache
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.dll
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\refint\perfict num.dll
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.pdb
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\perfict num.genruntimeconfig.cache
+F:\projects\perfict num project\perfict num\obj\Debug\net6.0\ref\perfict num.dll
